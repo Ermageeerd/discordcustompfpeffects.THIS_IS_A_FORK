@@ -23,7 +23,7 @@
 	height: 100%;
 	position: absolute;
 	background-size: 100% auto;
-	background-repeat: no-repeat;
+	background-repeat: repeat;
 	pointer-events:none;
 	z-index: 1;
 	opacity: 1;
