@@ -8,18 +8,6 @@
  * @invite 7SBn9qzwxC
  */
 
-@property --profile-effect-image {
-	syntax: "<image> | none";
-	inherits: true;
-	initial-value: url("https://cdn.discordapp.com/attachments/1136130967128514613/1169088009329709166/DTACatEffect.png");
-}
-
-@property --avatar-decoration-image {
-	syntax: "<image> | none";
-	inherits: true;
-	initial-value: url("https://cdn.discordapp.com/avatar-decoration-presets/a_950aea7686c5674b4e2f5df0830d153b.png?size=160&passthrough=true");
-}
-
 [class^="profileEffects"] {
 	display: none;
 }
